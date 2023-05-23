@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Sponge Bob",
+      "occupation": "Lives under the sea",
+      "weapon": "Crabby Patty",
+      "cartoon": true
+    },
+    {
+      "name": "Yvo",
+      "occupation": "de ",
+      "weapon": "Rooij",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "Carlijn",
+      "occupation": "Stokvis",
+      "weapon": "Gun",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "Ironhack Spotify",
+      "occupation": "fr",
+      "weapon": "Gun",
+      "cartoon": true,
+      "id": 6
+    },
+    {
+      "name": "Yvo",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "qwe",
+      "occupation": "wqeqw",
+      "weapon": "wqe",
+      "cartoon": false,
+      "id": 8
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 9
+    },
+    {
+      "name": "",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 10
+    }
+  ]
+}
